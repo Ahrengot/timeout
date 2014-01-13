@@ -46,7 +46,7 @@ $("button").on("click", function() {
 
 ## On the drawing board
 
-- :white_square: Support intervals
-- :white_square: Allow you to pause/resume/cancel a timeout
-- :white_square: AMD/Require.js support
-- :white_check_mark: Basic timeout functionality.
+- Support intervals
+- Allow you to pause/resume/cancel a timeout
+- AMD/Require.js support
+- ~~Basic timeout functionality.~~
