@@ -1,0 +1,22 @@
+{
+  "name": "RafTimeout",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-compass": "~0.5.0",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-autoprefixer": "~0.6.4",
+    "load-grunt-tasks": "~0.1.0",
+    "time-grunt": "~0.1.1",
+    "jshint-stylish": "~0.1.3"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
